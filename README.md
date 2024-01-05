@@ -8,3 +8,4 @@ UChicago CS Git Tutorial
 UChicago CS Git Tutorial
 
 Git is pretty cool
+Hopefully our last change...
