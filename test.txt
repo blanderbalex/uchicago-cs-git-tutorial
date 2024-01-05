@@ -15,3 +15,6 @@ I am…
 
 
 Madam Evaporation.
+
+Hello, world!
+Git is pretty cool
